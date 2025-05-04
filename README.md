@@ -1,4 +1,4 @@
-# shop_app_ui
+# E-Shop App Modren UI
 
 A new Flutter project.
 
